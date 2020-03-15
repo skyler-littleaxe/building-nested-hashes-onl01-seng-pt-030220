@@ -7,5 +7,5 @@ def first_challenge
        :hero_friend => []
      }
    }
-   :capulet =
+   :capulet => {}
 end
